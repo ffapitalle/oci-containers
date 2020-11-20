@@ -1,0 +1,28 @@
+== Creating and Running OCI Containers
+
+At the end of this chapter, students will be able to explain how containers are created, deployed, and run using Buildah, Podman, and Runc tools.
+
+.Student objectives:
+* Explain OCI
+* Describe Buildah and Podman software overview.
+* Compare Buildah to Dockerfile and explain building a container image using both methods. 
+* Run a container and verify it works.
+
+=== Target students
+Computer professionals knowledgeable about Linux command line but with minimal to no knowledge about Linux containers.
+
+=== Length
+3-5 pages
+
+=== Components
+Format using AsciiDoc. You are encouraged to use diagrams, command lists, and code snippets where appropriate. A hands-on lab is not required. 
+
+=== Attribution
+Identify all external resources you used in your writing.
+
+
+It is *VITAL* that this be an original work in the author's own words. Using the unattributed words of another person can cause your application to be immediately declined. 
+
+:hide-uri-scheme:
+Please see http://www.plagiarism.org/article/what-is-plagiarism.
+
